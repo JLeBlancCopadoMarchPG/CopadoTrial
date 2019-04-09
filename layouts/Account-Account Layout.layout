@@ -29,6 +29,10 @@
                 <behavior>Edit</behavior>
                 <field>Key_Account__c</field>
             </layoutItems>
+                        <layoutItems>
+                <behavior>Edit</behavior>
+                <field>VA_Uses_Copado__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
